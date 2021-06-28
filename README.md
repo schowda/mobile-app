@@ -1,17 +1,15 @@
-# fan_page
+# POST
 
-A new Flutter application.
+This Flutter Application brings users and admin to onepage where admin has rights to post anything that is in text format. Users can access the post-wall to view the admin's posts. 
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Install Flutter 
+- Install all Flutter Dependencies mention in 'flutter doctor'
+- To view the admin page, change the default admin email in the admin-message.dart to your email. 
 
-A few resources to get you started if this is your first Flutter project:
+## POST App Demonstration 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Video Link](https://drive.google.com/file/d/1CqgQzKTBf4-QWmGbFJJ7yEoTJG4kLmOh/view?usp=sharing)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mobile-app
